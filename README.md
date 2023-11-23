@@ -4,6 +4,7 @@
 This is a simple chat app built with React, Express, and WebSocket.
 
 Heroku link: https://pg6301-davido0604-369e22c5708a.herokuapp.com/
+
 Github repo link: https://github.com/davido0604/pg6301eksamen-davido0604-main
 
 Developer instruction is quite simple - just to run 'npm install' when launching the project for the first time.
