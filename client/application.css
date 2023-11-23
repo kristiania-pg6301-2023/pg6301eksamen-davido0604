@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+#root {
+    display: grid;
+    height: 100vh;
+    grid-template-rows: auto 1fr auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+    padding: 0.5em;
+    overflow-y: scroll;
+}
+
+footer form {
+    display: flex;
+}
+
+footer input {
+    flex: 1;
+}
